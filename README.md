@@ -1,4 +1,4 @@
-Hey there!👋
+Hey there!👋\n
 I'm Lior Gabbay, a passionate Computer Science student at Hebrew University in Israel.
 
 I'm currently studying: Machine Learning,Operating Systems,Computability and Introduction to brain Science.
